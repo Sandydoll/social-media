@@ -1,0 +1,30 @@
+/* 
+
+
+
+
+ */
+body{
+    background-color: #EEEEEE;
+}
+.fa{
+    color: #4183D7;
+}
+span{
+    font-size: 12px;
+}
+.box-social{
+    background-color: #fff;
+    padding: 60px 10px;
+    margin: 30px 0px;
+    
+}
+a{
+border-bottom: 1px solid blue;
+}
+.text{
+    margin: 10px 0;
+}
+.box{
+    padding: 60px 0px;
+} 
